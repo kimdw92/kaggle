@@ -1,1 +1,1 @@
-# My records of studying machine learning with datasets from Kaggle or something
+## records of studying "practical" machine learning with datasets from Kaggle or something
