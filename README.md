@@ -23,4 +23,4 @@
 - [Kaggle] Sentiment analysis (https://github.com/kimdw92/kaggle_study/blob/main/sentiment-analysis-imdb.ipynb)
 - Topic modeling (https://github.com/kimdw92/kaggle_study/blob/main/topic_modeling_example.ipynb)
 - document clustering (https://github.com/kimdw92/kaggle_study/blob/main/document_clustering_example.ipynb)
-- [Kaggle] Mercari Price Suggestion Challenge ()
+- [Kaggle] Mercari Price Suggestion Challenge (https://github.com/kimdw92/kaggle_study/blob/main/mercari-price-suggestion-text-analysis.ipynb)
