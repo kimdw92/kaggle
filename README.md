@@ -10,4 +10,17 @@
 
 2. Classification
 - [Kaggle] About precision, recall and ROC-AUC score (https://github.com/kimdw92/kaggle_study/blob/main/clf-pima-indians-diabetes.ipynb)
-- [Kaggle] Classification with GBM (https://github.com/kimdw92/kaggle_study/blob/main/santander-clf-practice.ipynb)
+- [Kaggle] Clf. with GBM (https://github.com/kimdw92/kaggle_study/blob/main/santander-clf-practice.ipynb)
+- [Kaggle] Clf. with imbalanced dataset (https://github.com/kimdw92/kaggle_study/blob/main/creditcard-fraud-practice.ipynb)
+- Stacking example (https://github.com/kimdw92/kaggle_study/blob/main/breast_cancer_stacking_example.ipynb)
+
+3. Regression
+- [Kaggle] Basic reg. with time-series dataset (https://github.com/kimdw92/kaggle_study/blob/main/regression-bike-sharing-demand.ipynb)
+- [Kaggle] Advanced Reg. with housing price dataset (https://github.com/kimdw92/kaggle_study/blob/main/regression-house-prices-advanced.ipynb)
+
+4. Text analysis
+- Text clf. example (https://github.com/kimdw92/kaggle_study/blob/main/text_clf_example.ipynb)
+- [Kaggle] Sentiment analysis (https://github.com/kimdw92/kaggle_study/blob/main/sentiment-analysis-imdb.ipynb)
+- Topic modeling (https://github.com/kimdw92/kaggle_study/blob/main/topic_modeling_example.ipynb)
+- document clustering (https://github.com/kimdw92/kaggle_study/blob/main/document_clustering_example.ipynb)
+- [Kaggle] Mercari Price Suggestion Challenge ()
