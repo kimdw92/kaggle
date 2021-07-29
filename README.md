@@ -10,4 +10,4 @@
 
 2. Classification
 - [Kaggle] About precision, recall and ROC-AUC score: clf-pima-indians-diabetes.ipynb
-- [Kaggle] Classification with GBM: santander-clf-practice.ipynb
+- [Kaggle] Classification with GBM: https://github.com/kimdw92/kaggle_study/blob/main/santander-clf-practice.ipynb
