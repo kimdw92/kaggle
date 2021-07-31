@@ -24,3 +24,6 @@
 - Topic modeling (https://github.com/kimdw92/kaggle_study/blob/main/topic_modeling_example.ipynb)
 - document clustering (https://github.com/kimdw92/kaggle_study/blob/main/document_clustering_example.ipynb)
 - [Kaggle] Mercari Price Suggestion Challenge (https://github.com/kimdw92/kaggle_study/blob/main/mercari-price-suggestion-text-analysis.ipynb)
+
+5. Recommendation system
+- [Kaggle] Contents-based filtering (https://github.com/kimdw92/kaggle_study/blob/main/contents-based-movie-recommendation.ipynb)
