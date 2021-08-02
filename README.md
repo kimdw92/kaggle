@@ -27,3 +27,6 @@
 
 5. Recommendation system
 - [Kaggle] Contents-based filtering (https://github.com/kimdw92/kaggle_study/blob/main/contents-based-movie-recommendation.ipynb)
+- Item-based collaborative filtering (https://github.com/kimdw92/ml_kaggle_study/blob/main/item_based_CF_example.ipynb)
+- Matrix-Factorization collaborative filtering (https://github.com/kimdw92/ml_kaggle_study/blob/main/matrix_factorization_CF_example.ipynb)
+- Surprise example: Python library for recommendation systems (https://github.com/kimdw92/ml_kaggle_study/blob/main/surprise_example.ipynb)
