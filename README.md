@@ -1,9 +1,9 @@
 ## I'm studying to improve my skill for machine learning with datasets from Kaggle or something
 
 ### References:
-1. 파이썬 머신러닝 완벽가이드 (https://github.com/wikibook/pymldg-rev)
+1. [책]파이썬 머신러닝 완벽가이드 (https://github.com/wikibook/pymldg-rev)
 2. Kaggle Notebooks
-3. 카카오 아레나 데이터 경진대회 1등 노하우
+3. [책]카카오 아레나 데이터 경진대회 1등 노하우
 
 ### Summary:
 1. EDA
