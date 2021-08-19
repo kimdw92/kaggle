@@ -10,6 +10,7 @@ Reference: https://github.com/lime-robot/categories-prediction
 
 ## file 용도:
 1. preprocess.ipynb : 학습 데이터 전처리
-2. my_cate_model : BERT 등 딥러닝 모델 구현 파일
-3. my_cate_dataset : torch의 DataLoader로 넘기기 위해 전처리된 데이터를 가공
-4. train : 위의 모델과 데이터셋 인스턴스를 생성해서 학습
+2. my_cate_model.py : BERT 등 딥러닝 모델 구현 파일
+3. my_cate_dataset.py : torch의 DataLoader로 넘기기 위해 전처리된 데이터를 가공
+4. train.py : 위의 모델과 데이터셋 인스턴스를 생성해서 학습하고 모델 저장
+5. inference.py : 학습된 모델을 불러와서 Dev 데이터셋으로 대회 제출용 파일 생성
