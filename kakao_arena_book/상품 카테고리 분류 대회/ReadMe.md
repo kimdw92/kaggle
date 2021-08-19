@@ -7,3 +7,9 @@ Reference: https://github.com/lime-robot/categories-prediction
 - PyTorch 경험
 - 텍스트 정보는 BERT 모델로 벡터화한다 -> Transformer, BERT, GPT 등 관련된 최신 NLP 모델들을 개념위주로 추가 공부
 - Python 딥러닝 코드 모듈화 공부: 모델파일과 학습파일 분리/ CFG 클래스로 hyper-param 관리/ argparse 사용
+
+## file 용도:
+1. preprocess.ipynb : 학습 데이터 전처리
+2. my_cate_model : BERT 등 딥러닝 모델 구현 파일
+3. my_cate_dataset : torch의 DataLoader로 넘기기 위해 전처리된 데이터를 가공
+4. train : 위의 모델과 데이터셋 인스턴스를 생성해서 학습
