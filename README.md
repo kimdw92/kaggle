@@ -14,6 +14,7 @@
 - [Kaggle] Clf. with GBM [링크](https://github.com/kimdw92/kaggle_study/blob/main/santander-clf-practice.ipynb)
 - [Kaggle] Clf. with imbalanced dataset [링크](https://github.com/kimdw92/kaggle_study/blob/main/creditcard-fraud-practice.ipynb)
 - Stacking example [링크](https://github.com/kimdw92/kaggle_study/blob/main/breast_cancer_stacking_example.ipynb)
+- [Programmers] 미술 작품 분류하기 [링크](https://github.com/kimdw92/ml_kaggle_study/blob/main/programmers/arts_classfier.ipynb)
 
 3. Regression
 - [Kaggle] Basic reg. with time-series dataset [링크](https://github.com/kimdw92/kaggle_study/blob/main/regression-bike-sharing-demand.ipynb)
